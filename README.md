@@ -40,7 +40,7 @@ In jedem dieser Repositories findest du:
 ---
 
 ## 🎓 Zertifikate
-[📄 Zertifikat herunterladen](assets/1399_ZechmeisterFSCert-1.pdf)
+[📄 Zertifikat herunterladen] (1399_ZechmeisterFSCert-1 (1).pdf)
 
 * **Full Stack Web Developer**
   **Aussteller:** Code Factory Wien
